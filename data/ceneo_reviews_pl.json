@@ -6,6 +6,14 @@
           "_text": "5"
         },
         "summary": {
+          "_cdata": "Narazie niewiem co o produkcie napisac"
+        }
+      },
+      {
+        "total_rating": {
+          "_text": "5"
+        },
+        "summary": {
           "_cdata": "Jest okay.Owocnej współpracy.Z poważaniem:H.I.S."
         }
       },
@@ -95,14 +103,6 @@
         },
         "summary": {
           "_cdata": "Super"
-        }
-      },
-      {
-        "total_rating": {
-          "_text": "5"
-        },
-        "summary": {
-          "_cdata": "Super szybka dostawa!! Polecam"
         }
       }
     ]
