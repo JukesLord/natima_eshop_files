@@ -6,6 +6,14 @@
           "_text": "5"
         },
         "summary": {
+          "_cdata": "Dobrze się u was kupuje.Jestem spokojna, że zamówienia dotrą.Pozdrawiam i miłego dnia."
+        }
+      },
+      {
+        "total_rating": {
+          "_text": "5"
+        },
+        "summary": {
           "_cdata": "Polecam zakup w natima.pl"
         }
       },
@@ -143,14 +151,6 @@
         },
         "summary": {
           "_cdata": "Błyskawiczna usługa."
-        }
-      },
-      {
-        "total_rating": {
-          "_text": "5"
-        },
-        "summary": {
-          "_cdata": "Profesjonalizm i szybkość to dewiza firmy. Towar dostarczony szybko, bardzo dobrze zabezpieczona szklana butelka."
         }
       }
     ]
