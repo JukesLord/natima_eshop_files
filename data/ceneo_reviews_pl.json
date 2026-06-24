@@ -6,6 +6,14 @@
           "_text": "5"
         },
         "summary": {
+          "_cdata": "Wszystko OK"
+        }
+      },
+      {
+        "total_rating": {
+          "_text": "5"
+        },
+        "summary": {
           "_cdata": "Jestem bardzo zadowolony z zakupu, pozdrawiam"
         }
       },
@@ -103,14 +111,6 @@
         },
         "summary": {
           "_cdata": "Wszystko było ok. Paczka doszła bardzo szybko!!!"
-        }
-      },
-      {
-        "total_rating": {
-          "_text": "5"
-        },
-        "summary": {
-          "_cdata": "Jestem bardzo zadowolona z obsługi i zamówionych suplementów."
         }
       }
     ]
