@@ -6,6 +6,14 @@
           "_text": "5"
         },
         "summary": {
+          "_cdata": "Zioła bardzo mi pasują"
+        }
+      },
+      {
+        "total_rating": {
+          "_text": "5"
+        },
+        "summary": {
           "_cdata": "Bardzo sprawnie przebiegły zakupy, produkty bardzo dobrze zapakowane."
         }
       },
@@ -119,14 +127,6 @@
         },
         "summary": {
           "_cdata": "Wszystko ok.polecam"
-        }
-      },
-      {
-        "total_rating": {
-          "_text": "5"
-        },
-        "summary": {
-          "_cdata": "Bardzo dobrze."
         }
       }
     ]
