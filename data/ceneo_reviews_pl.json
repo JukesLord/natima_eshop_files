@@ -6,6 +6,14 @@
           "_text": "5"
         },
         "summary": {
+          "_cdata": "Wszystko ok"
+        }
+      },
+      {
+        "total_rating": {
+          "_text": "5"
+        },
+        "summary": {
           "_cdata": "Firma godna polecenia"
         }
       },
@@ -103,14 +111,6 @@
         },
         "summary": {
           "_cdata": "Szybka wysyłka, wszystko idealnie"
-        }
-      },
-      {
-        "total_rating": {
-          "_text": "5"
-        },
-        "summary": {
-          "_cdata": "Zdecydowanie polecam"
         }
       }
     ]
