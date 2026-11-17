@@ -3,6 +3,35 @@
     "review": [
       {
         "rating_id": {
+          "_text": "960917224"
+        },
+        "source": {
+          "_text": "regular"
+        },
+        "ordered": {
+          "_text": "1794342736"
+        },
+        "unix_timestamp": {
+          "_text": "1794912872"
+        },
+        "total_rating": {
+          "_text": "4.5"
+        },
+        "recommends": {
+          "_text": "1"
+        },
+        "pros": {
+          "_cdata": "Zboží dorazilo rychle\nŠiroký výběr zboží"
+        },
+        "summary": {
+          "_cdata": "Nakupují opakovaně.  Hořčík denní a noční je už mou nezbytnou součástí. Přes den pomáhá se soustředěním a jsem plná energie. A noční mi pomáhá s lepším spánkem. Takže když mi tabletky dojdou je poznat hned rozdíl.  Jsem s produkty maximálně spokojená a vřele doporučuji ."
+        },
+        "order_id": {
+          "_text": "126082637"
+        }
+      },
+      {
+        "rating_id": {
           "_text": "960595135"
         },
         "source": {
@@ -1822,44 +1851,6 @@
         },
         "order_id": {
           "_text": "126076351"
-        }
-      },
-      {
-        "rating_id": {
-          "_text": "953320295"
-        },
-        "source": {
-          "_text": "regular"
-        },
-        "ordered": {
-          "_text": "1791528732"
-        },
-        "unix_timestamp": {
-          "_text": "1792318503"
-        },
-        "total_rating": {
-          "_text": "5"
-        },
-        "recommends": {
-          "_text": "1"
-        },
-        "delivery_time": {
-          "_text": "5"
-        },
-        "transport_quality": {
-          "_text": "5"
-        },
-        "communication": {
-          "_text": "5"
-        },
-        "pros": {
-          "_cdata": "Výběr,rychlá doprava"
-        },
-        "reaction": {
-          "_cdata": "Dobrý den,\r\n\r\nděkujeme za Vaši pozitivní zpětnou vazbu, moc nás potěšilo, že jste spokojený s našimi produkty a službami. Naše největší priorita je Vaše spokojenost. \r\n\r\nPřejeme Vám krásný den,\r\nza tým Natima, Kateřina."
-        },
-        "order_id": {
-          "_text": "126075811"
         }
       }
     ]
