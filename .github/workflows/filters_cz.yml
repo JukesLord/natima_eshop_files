@@ -67,3 +67,4 @@ jobs:
           git add filters_cz.json
           git commit -m "Download and convert CZ filters (XLS→JSON)" || echo "No changes to commit"
           git push
+
